@@ -24,7 +24,7 @@ dependencies:
 
 ## 🖥️ Preview
 
-> ⚠️ Screenshot / screen recording recommended to appreciate the animation and layout.
+![Water Meter Preview](preview.png)
 
 ## 📂 How to Use
 
