@@ -24,7 +24,7 @@ dependencies:
 
 ## 🖥️ Preview
 
-![Water Meter Preview](preview.png)
+<img src="preview.png" alt="Water Meter UI Preview" width="300"/>
 
 ## 📂 How to Use
 
